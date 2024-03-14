@@ -1,4 +1,12 @@
 * {
-    background: white;
-    color: rgb(135, 120, 37);
+    background: rgb(254, 250, 244);
+    color: rgb(186, 164, 41);
 }
+
+.belgrano-regular {
+    font-family: "Belgrano", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
