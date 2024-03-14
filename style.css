@@ -9,4 +9,12 @@
     font-style: normal;
   }
   
+  // <uniquifier>: Use a unique and descriptive class name
+
+.rubik {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
   
