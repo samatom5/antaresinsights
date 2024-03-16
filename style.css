@@ -1,8 +1,4 @@
-* {
-    background: rgb(254, 250, 244);
-    color: rgb(186, 164, 41);
-    text-align: center;
-}
+
 
 .belgrano-regular {
     font-family: "Belgrano", serif;
@@ -10,12 +6,39 @@
     font-style: normal;
   }
   
-  // <uniquifier>: Use a unique and descriptive class name
+
 
 .rubik {
   font-family: "Rubik", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+}
+
+div {
+  height: 200;
+  width: 100%;
+}
+
+#first {
+  background-color: rgb(25, 25, 99);
+  color: white;
+  padding: 20px;
+  text-align: center;
+  margin-left: 0rem;
+  margin-right: 0rem;
+}
+
+#second {
+  background-color: whitesmoke;
+  color: rgb(186, 164, 41);
+  padding: 20px;
+  text-align: center;
+  margin-left: 0rem;
+  margin-right: 0rem;
+}
+
+#gold {
+  color: rgb(186, 164, 41);
 }
   
