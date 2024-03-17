@@ -6,13 +6,29 @@
     font-style: normal;
   }
   
-
-
 .rubik {
   font-family: "Rubik", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+}
+
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.libre-baskerville-regular-italic {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
 }
 
 div {
@@ -40,5 +56,13 @@ div {
 
 #gold {
   color: rgb(186, 164, 41);
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+h3 {
+  text-transform: uppercase;
 }
   
