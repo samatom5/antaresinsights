@@ -1,16 +1,5 @@
 
 
-body {
-  margin: 0;
-  padding: 0;
-  font-family: Arial, sans-serif;
-  background-image: url('/assets/marble.png'); /* Replace 'your-background-image.jpg' with your image path */
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed; /* Keeps the background image fixed while scrolling */
-  color: white; /* Text color */
-}
-
 .belgrano-regular {
     font-family: "Belgrano", serif;
     font-weight: 400;
@@ -59,11 +48,9 @@ div {
 #second {
   background-color: rgb(255, 255, 255);
   background-image: url('/assets/img/marble.png');
-  color: rgb(186, 164, 41);
+  color: rgb(198, 172, 27);
   padding: 20px;
   text-align: center;
-  margin-left: 0rem;
-  margin-right: 0rem;
 }
 
 #third {
